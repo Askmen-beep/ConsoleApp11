@@ -7,7 +7,7 @@ namespace ConsoleApp11
     
         public interface IFlying
 
-        {
+        {//3
 
             public void Fly()
 
